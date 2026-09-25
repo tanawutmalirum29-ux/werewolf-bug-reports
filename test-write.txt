@@ -1,0 +1,2 @@
+GitHub write test
+สร้างไฟล์ทดสอบการเขียนผ่าน ChatGPT สำเร็จ
