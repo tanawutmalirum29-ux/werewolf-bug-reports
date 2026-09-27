@@ -1,0 +1,20 @@
+{
+  "kind": "admin-internal-browser-screenshot",
+  "application": "Werewolf Online",
+  "page": "Werewolf-Online",
+  "path": "/index.html",
+  "viewport": {
+    "width": 568,
+    "height": 320,
+    "mode": "preset",
+    "presetId": "mobile-small",
+    "presetLabel": "",
+    "orientation": "Landscape",
+    "zoom": "166%"
+  },
+  "dpr": 2,
+  "captureMode": "evidence",
+  "capturedAt": "2026-09-27T17:49:43.757Z",
+  "browser": "Mozilla/5.0 (iPad; CPU OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/152.0.7977.40 Mobile/15E148 Safari/604.1",
+  "userAgent": "Mozilla/5.0 (iPad; CPU OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/152.0.7977.40 Mobile/15E148 Safari/604.1"
+}
